@@ -9,8 +9,9 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=induwara-nagodavithana&show_icons=true&locale=en" alt="induwara-nagodavithana" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=induwara-nagodavithana&" alt="induwara-nagodavithana" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=induwara-nagodavithana&show_icons=true&locale=en&layout=compact" alt="induwara-nagodavithana" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=induwara-nagodavithana&" alt="induwara-nagodavithana" /></p>
+
 
